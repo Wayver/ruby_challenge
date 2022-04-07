@@ -8,8 +8,8 @@ Nouns: "abcd", "c", "def", "h", "ij", "cde"
 Verbs: "bc", "fg", "g", "hij", "bcd"
 Articles: "a", "ac", "e"
 
-However, the rules for creating a sentence in the Annkissam Language are very different. A valid sentence in the Annkissam Language should
-- have all its words present in the Annkissam Dictionary.
+However, the rules for creating a sentence in the [company] Language are very different. A valid sentence in the [company] Language should
+- have all its words present in the [company] Dictionary.
 - have a verb.
 - have a noun or have at least two articles.
 
